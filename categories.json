@@ -1,0 +1,3133 @@
+{
+    "categories": [ 
+      {
+        "name": "NETWORKING",
+        "subcategories": [
+          {
+            "name": "Switches",
+            "subcategories": [
+              { "name": "HPE Switches" },
+              { "name": "Cisco Switches" },
+              { "name": "Extreme Switches" },
+              { "name": "Dell Switches" },
+              { "name": "Ubiquiti Switches" },
+              { "name": "Netgear Switches" },
+              { "name": "Allied Telesis Switches" }
+            ]
+          },
+          {
+            "name": "Wired & Wireless Devices",
+            "subcategories": [
+              { "name": "Cisco Routers" },
+              { "name": "Asus Routers" },
+              { "name": "Zyxel Routers" },
+              { "name": "Juniper Routers" },
+              { "name": "TP-Link Routers" },
+              { "name": "Huawei Routers" },
+              { "name": "Ubiquiti Routers" },
+              { "name": "Netgear Routers" }
+            ]
+          },
+          {
+            "name": "Networking Accessories",
+            "subcategories": [
+              {
+                "name": "PowerLine Network",
+                "subcategories": [
+                  { "name": "PowerLine Network Adapters" }
+                ]
+              },
+              {
+                "name": "Networking Hardware",
+                "subcategories": [
+                  { "name": "Bridges & Repeaters" },
+                  { "name": "Edge Computing Platforms" },
+                  { "name": "Gateways/Controllers" },
+                  { "name": "Mesh Wi-Fi Systems" },
+                  { "name": "Modems" },
+                  { "name": "Network Antennas" },
+                  { "name": "Network Extenders" },
+                  { "name": "Network Media Converters" },
+                  { "name": "Network Switches" },
+                  { "name": "Wi-Fi Signal Boosters" },
+                  { "name": "Wired Routers" },
+                  { "name": "Wireless Access Points" },
+                  { "name": "Wireless Routers" }
+                ]
+              },
+              {
+                "name": "Cellular Network Equipment",
+                "subcategories": [
+                  { "name": "Cellular Network Devices" },
+                  { "name": "Cellular Signal Boosters" }
+                ]
+              },
+              {
+                "name": "Transmission & Access Network",
+                "subcategories": [
+                  { "name": "Optical Line Terminals (OLTs)" },
+                  { "name": "Optical Network Terminals/Units (ONTs/ONUs)" }
+                ]
+              },
+              {
+                "name": "Network Connectivity Installation",
+                "subcategories": [
+                  { "name": "Optical Distribution Frames" },
+                  { "name": "Fibre Optic Microduct Accessories" },
+                  { "name": "Fibre Optic Splice Enclosures" },
+                  { "name": "Network Junction Boxes" },
+                  { "name": "Optical Cross Connects Equipment" },
+                  { "name": "Patch Panel Accessories" },
+                  { "name": "Patch Panels" },
+                  { "name": "Splice Trays" }
+                ]
+              },
+              {
+                "name": "Network Management & Monitoring",
+                "subcategories": [
+                  { "name": "Network Cable Testers" },
+                  { "name": "Network Management Devices" },
+                  { "name": "Remote Management Adapters" },
+                  { "name": "Wireless Network Testers" }
+                ]
+              },
+              {
+                "name": "Network Equipment Parts & Accessories",
+                "subcategories": [
+                  { "name": "Network Antenna Accessories" },
+                  { "name": "Network Equipment Spare Parts" },
+                  { "name": "Network Splitters" },
+                  { "name": "Network Switch Components" },
+                  { "name": "Network Switch Modules" },
+                  { "name": "Network Transceiver Modules" },
+                  { "name": "Networking Equipment Memory" },
+                  { "name": "PoE Adapters" },
+                  { "name": "Router Motherboards" },
+                  { "name": "Voice Network Modules" },
+                  { "name": "Wireless Access Point Accessories" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      { "name": "USB Cables" },
+      { "name": "SERVERS" },
+      { "name": "Thunderbolt Cables" },
+      {
+        "name": "STORAGES",
+        "subcategories": [
+          {
+            "name": "Data Storage Devices",
+            "subcategories": [
+              { "name": "Backup Storage Devices" },
+              { "name": "Card Readers" },
+              { "name": "Data Encryption Devices" },
+              { "name": "Data Storage Device Parts & Accessories" },
+              { "name": "Disk Arrays" },
+              { "name": "External Hard Drives" },
+              { "name": "External Solid State Drives" },
+              { "name": "Floppy Drives" },
+              { "name": "Internal Hard Drives" },
+              { "name": "Internal Solid State Drives" },
+              { "name": "Magnetic Card Readers" },
+              { "name": "Media Duplicators" },
+              { "name": "Memory Cards" },
+              { "name": "Optical Disc Drives" },
+              { "name": "Personal Cloud Storage Devices" },
+              { "name": "Storage Device Backup Batteries" },
+              { "name": "Storage Drive Cases" },
+              { "name": "Storage Drive Docking Stations" },
+              { "name": "USB Flash Drives" }
+            ]
+          },
+          { "name": "NAS & Storage Servers" },
+          {
+            "name": "Data Storage Mediums",
+            "subcategories": [
+              { "name": "Backup Storage Media" },
+              { "name": "Blank Blu-Ray Discs" },
+              { "name": "Blank CDs" },
+              { "name": "Blank DVDs" },
+              { "name": "Cleaning Media" },
+              { "name": "Diskettes" },
+              { "name": "Optical Disc Cases" },
+              { "name": "Optical Disc Storage Boxes" },
+              { "name": "SIM/Memory Card Adapters" },
+              { "name": "Storage Media Cases" },
+              { "name": "Storage Media Labels" }
+            ]
+          }
+        ]
+      },
+      { "name": "Signal Cables" },
+      {
+        "name": "COMPUTING",
+        "subcategories": [
+          {
+            "name": "All-in-One PCs/Workstations",
+            "subcategories": [
+              {
+                "name": "POS Systems",
+                "subcategories": [
+                  { "name": "POS System Accessories" }
+                ]
+              },
+              { "name": "PCs/Workstations" },
+              {
+                "name": "Printers & Scanners",
+                "subcategories": [
+                  {
+                    "name": "Print & Scan Accessories",
+                    "subcategories": [
+                      { "name": "Duplex Units" },
+                      { "name": "Handheld Printer Accessories" },
+                      { "name": "Fuser Oil" },
+                      { "name": "Fusers" },
+                      { "name": "Ink Cartridge Accessories" },
+                      { "name": "Media Spindles" },
+                      { "name": "Output Stackers" },
+                      { "name": "Print Servers" },
+                      { "name": "Printer Accessibility Accessories" },
+                      { "name": "Printer Belts" },
+                      { "name": "Printer Emulation Upgrades" },
+                      { "name": "Printer Memory" },
+                      { "name": "Printer Switches" },
+                      { "name": "Printer/Scanner Spare Parts" },
+                      { "name": "Scanner Accessories" },
+                      { "name": "Scanner Transparency Adapters" },
+                      { "name": "Trays & Feeders" }
+                    ]
+                  },
+                  {
+                    "name": "Printing Equipment",
+                    "subcategories": [
+                      { "name": "3D Pen Accessories" },
+                      { "name": "3D Printing Materials" },
+                      { "name": "Disc Publishers" },
+                      { "name": "Dot Matrix Printers" },
+                      { "name": "Inkjet Printers" },
+                      { "name": "Label Printers" },
+                      { "name": "Large Format Printers" },
+                      { "name": "Laser Printers" },
+                      { "name": "Multifunctionals" },
+                      { "name": "Photo Printers" },
+                      { "name": "Plastic Card Printers" }
+                    ]
+                  },
+                  {
+                    "name": "Printing Media",
+                    "subcategories": [
+                      { "name": "Barcode Labels" },
+                      { "name": "Blank Plastic Cards" },
+                      { "name": "Business Cards" },
+                      { "name": "Clothing Transfers" },
+                      { "name": "Label-Making Tapes" },
+                      { "name": "Large Format Media" },
+                      { "name": "Plotter Paper" },
+                      { "name": "Printer Labels" },
+                      { "name": "Printing Films" },
+                      { "name": "Printing Paper" },
+                      { "name": "Thermal Paper" }
+                    ]
+                  },
+                  {
+                    "name": "Printing Supplies",
+                    "subcategories": [
+                      { "name": "Developer Units" },
+                      { "name": "Imaging Units" },
+                      { "name": "Ink Cartridges" },
+                      { "name": "Ink Sticks" },
+                      { "name": "Print Heads" },
+                      { "name": "Printer Cleaning" },
+                      { "name": "Printer Drums" },
+                      { "name": "Printer Ink Refills" },
+                      { "name": "Printer Kits" },
+                      { "name": "Printer Ribbons" },
+                      { "name": "Printer Rollers" },
+                      { "name": "Staple Cartridges" },
+                      { "name": "Thermal Ribbon" },
+                      { "name": "Toner Cartridges" },
+                      { "name": "Toner Collectors" }
+                    ]
+                  },
+                  {
+                    "name": "Scanning Equipment",
+                    "subcategories": [
+                      { "name": "Scanners" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Monitors & Accessories",
+                "subcategories": [
+                  {
+                    "name": "Monitor Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Desktop Sit-Stand Workplace Accessories" },
+                      { "name": "Desktop Sit-Stand Workplaces" },
+                      { "name": "Display Privacy Filter Accessories" },
+                      { "name": "Display Privacy Filters" },
+                      { "name": "Monitor Accessories" },
+                      { "name": "Monitor Mount Accessories" },
+                      { "name": "Monitor Lights" },
+                      { "name": "Monitor Mounts & Stands" },
+                      { "name": "Monitor Spare Parts" }
+                    ]
+                  },
+                  {
+                    "name": "Monitors",
+                    "subcategories": [
+                      { "name": "Computer Monitors" }
+                    ]
+                  }
+                ]
+              },
+              { "name": "PC/Workstation Barebones" }
+            ]
+          },
+          {
+            "name": "Dekstop Computing",
+            "subcategories": [
+              { "name": "Holder Parts & Accessories" },
+              { "name": "Server Barebones" },
+              {
+                "name": "Chassis Components",
+                "subcategories": [
+                  { "name": "All-in-One PC/Workstation Mounts & Stands" },
+                  { "name": "Peripheral Device Cases" },
+                  {
+                    "name": "System Components",
+                    "subcategories": [
+                      { "name": "Audio Cards" },
+                      { "name": "Computer TV Tuners" },
+                      { "name": "Daughterboards" },
+                      { "name": "Development Board Accessories" },
+                      { "name": "Development Boards" },
+                      { "name": "External Graphics Card Enclosures" },
+                      { "name": "Graphics Card Bridges" },
+                      { "name": "Graphics Cards" },
+                      { "name": "Interface Cards/Adapters" },
+                      { "name": "Memory Modules" },
+                      { "name": "Motherboards" },
+                      { "name": "Network Cards" },
+                      { "name": "Peripheral Controllers" },
+                      { "name": "Processors" },
+                      { "name": "RAID Controller Accessories" },
+                      { "name": "RAID Controllers" },
+                      { "name": "Trusted Platform Modules (TPMs)" }
+                    ]
+                  },
+                  { "name": "Mobile Device Dock Stations" },
+                  { "name": "Mobile Device Dock Station Accessories" },
+                  {
+                    "name": "Interface Components",
+                    "subcategories": [
+                      { "name": "AV Equipment Interface Cards" },
+                      { "name": "Channel Converters" },
+                      { "name": "Computer Data Switches" },
+                      { "name": "Console Servers" },
+                      { "name": "Digital & Analog I/O Modules" },
+                      { "name": "Interface Hubs" },
+                      { "name": "Serial Converters/Repeaters/Isolators" },
+                      { "name": "Serial Servers" },
+                      { "name": "Serial Switch Boxes" },
+                      { "name": "USB Graphics Adapters" }
+                    ]
+                  },
+                  { "name": "Holders"    },
+                  { "name": "Holders" },
+                  { "name": "Electronic Device Repair Tools" },
+                  { "name": "CPU Holders" },
+                  { "name": "All-in-One PC Spare Parts" },
+                  { "name": "Computer Case Parts" },
+                  { "name": "Computer Cases" },
+                  { "name": "Computer Cooling System Parts & Accessories" },
+                  { "name": "Computer Cooling Systems" },
+                  { "name": "Console Extenders" },
+                  { "name": "Drive Bay Panels" },
+                  { "name": "Fan Speed Controllers" },
+                  { "name": "Heat Sink Compound Cleaners" },
+                  { "name": "Heat Sink Compounds" },
+                  { "name": "LED Lighting Controllers" },
+                  { "name": "Mounting Kits" },
+                  { "name": "Network Equipment Chassis" },
+                  { "name": "ODD Enclosures" },
+                  { "name": "Port Dust Covers" },
+                  { "name": "Rack Accessories" },
+                  { "name": "Rack Cabinets" },
+                  { "name": "Rack Consoles" },
+                  { "name": "Slot Expanders" },
+                  { "name": "Storage Drive Enclosures" }
+                ]
+              },
+              { "name": "PC Security Enclosures" },
+              {
+                "name": "Backpack PC Accessories",
+                "subcategories": [
+                  { "name": "Children's Tablet Accessories" },
+                  { "name": "Signature Capture Pads" },
+                  { "name": "Barebooks" },
+                  { "name": "Stylus Pens" },
+                  { "name": "Stylus Pen Accessories" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Notebooks",
+            "subcategories": [
+              {
+                "name": "Notebook Stands",
+                "subcategories": [
+                  {
+                    "name": "Notebook Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Notebook Cases" },
+                      { "name": "USB Gadgets" }
+                    ]
+                  }
+                ]
+              },
+              { "name": "Notebook Spare Parts" },
+              { "name": "Notebook Accessories" },
+              { "name": "Notebook Cooling Pads" },
+              { "name": "Notebook Docks & Port Replicators" }
+            ]
+          },
+          {
+            "name": "Tablets",
+            "subcategories": [
+              { "name": "Thin Clients" },
+              { "name": "Tablet Spare Parts" },
+              { "name": "Tablet Case Accessories" },
+              {
+                "name": "Tablet Screen Protectors",
+                "subcategories": [
+                  { "name": "Children's Tablets" },
+                  { "name": "Customer Displays" },
+                  { "name": "Tablet Cases" }
+                ]
+              },
+              { "name": "Tablet Security Enclosures" }
+            ]
+          },
+          {
+            "name": "Embedded Computer Docks",
+            "subcategories": [
+              { "name": "Embedded Computers" },
+              { "name": "Handheld Mobile Computers" },
+              { "name": "Handheld Mobile Computer Spare Parts" },
+              { "name": "Handheld Mobile Computer Cases" },
+              { "name": "Handheld Mobile Computer Accessories" }
+            ]
+          },
+          {
+            "name": "POS Hardware",
+            "subcategories": [
+              { "name": "Barcode Reader Accessories" },
+              { "name": "Barcode Readers" },
+              { "name": "POS Printers" }
+            ]
+          }
+        ]
+      },
+      { "name": "Serial Attached SCSI (SAS) Cables" },
+      {
+        "name": "UPSs RANGE",
+        "subcategories": [
+          {
+            "name": "UPS Batteries",
+            "subcategories": [
+              { "name": "Power Supply Units" },
+              { "name": "UPS Battery Cabinets" },
+              {
+                "name": "Batteries & Power Supplies",
+                "subcategories": [
+                  { "name": "Battery Chargers" },
+                  { "name": "Battery Testers" },
+                  { "name": "Household Batteries" },
+                  { "name": "Maintenance Bypass Panels (MBPs)" },
+                  { "name": "Mobile Device Chargers" },
+                  { "name": "Mobile Device Wireless Charging Receivers" },
+                  { "name": "Portable Device Management Carts & Cabinets" },
+                  { "name": "Power Adapters & Inverters" },
+                  { "name": "Portable Power Station Accessories" },
+                  { "name": "Power Banks" },
+                  { "name": "Portable Power Stations" },
+                  { "name": "Power Supply Transformers" }
+                ]
+              }
+            ]
+          },
+          { "name": "UPS Accessories" },
+          { "name": "Power Distribution Units (PDUs)" }
+        ]
+      },
+      { "name": "DisplayPort Cables" },
+      {
+        "name": "COMPONENTS",
+        "subcategories": [
+          { "name": "Internal USB Cables" },
+          {
+            "name": "Cables",
+            "subcategories": [
+              { "name": "Coaxial Cables" },
+              { "name": "Audio Cables" },
+              { "name": "SCSI Cables" },
+              { "name": "SCART Cables" },
+              { "name": "Serial Cables" },
+              { "name": "Ribbon Cables" },
+              { "name": "SATA Cables" },
+              { "name": "PS/2 Cables" },
+              { "name": "Power Cables" },
+              { "name": "Parallel Cables" },
+              { "name": "Cable Splitters or Combiners" },
+              { "name": "DVI Cables" },
+              { "name": "Fibre Optic Cables" },
+              { "name": "Fibre Optic Connectors" },
+              { "name": "FireWire Cables" },
+              { "name": "HDMI Cables" },
+              { "name": "InfiniBand Cables" },
+              { "name": "Internal Power Cables" },
+              { "name": "KVM Cables" },
+              { "name": "Lightning Cables" }
+            ]
+          },
+          {
+            "name": "Cable Accessories",
+            "subcategories": [
+              { "name": "Fibre Optic Adapters" }
+            ]
+          },
+          {
+            "name": "Data Input Devices",
+            "subcategories": [
+              { "name": "Digital Pens" },
+              { "name": "Graphic Tablet Accessories" },
+              { "name": "Graphic Tablets" },
+              { "name": "Input Device Accessories" },
+              { "name": "Key Switches" },
+              { "name": "Keyboard/Mouse Cables" },
+              { "name": "Keyboards" },
+              { "name": "KVM Extenders" },
+              { "name": "KVM Switches" },
+              { "name": "Mice" },
+              { "name": "Mobile Device Keyboards" },
+              { "name": "Mouse Pads" },
+              { "name": "Numeric Keypads" },
+              { "name": "Other Input Devices" },
+              { "name": "Touch Pads" },
+              { "name": "Wireless Presenters" },
+              { "name": "Wrist Rests" }
+            ]
+          },
+          {
+            "name": "Power Conditioning",
+            "subcategories": [
+              { "name": "Solar Inverters" },
+              { "name": "Capacitor Banks" },
+              {
+                "name": "Wiring Devices & Accessories",
+                "subcategories": [
+                  { "name": "Keystone Modules Accessories" },
+                  { "name": "Coaxial Loads & Terminations" },
+                  { "name": "Cable Gland Parts" },
+                  { "name": "Cable Glands" },
+                  { "name": "Coaxial Connectors" },
+                  { "name": "Electrical Power Plugs" },
+                  { "name": "Electrical Terminals" },
+                  { "name": "Electrical Wires" },
+                  { "name": "Electronic Connector Caps" },
+                  { "name": "Keystone Modules" },
+                  { "name": "Outlet Box Accessories" },
+                  { "name": "Outlet Boxes" },
+                  { "name": "Plug Lock Inserts" },
+                  { "name": "Power Extension Accessories" },
+                  { "name": "Power Extensions" },
+                  { "name": "Power Plug Adapters" },
+                  { "name": "Socket Safety Covers" },
+                  { "name": "Socket-Outlets" },
+                  { "name": "Terminal Block Accessories" },
+                  { "name": "Terminal Blocks" },
+                  { "name": "Wall Plates & Switch Covers" }
+                ]
+              },
+              {
+                "name": "Wire Raceways Conduits",
+                "subcategories": [
+                  { "name": "Battery Boxes" },
+                  { "name": "Cable Tray Accessories" },
+                  { "name": "Cable Trays" },
+                  { "name": "Cable Trunking System Accessories" },
+                  { "name": "Cable Trunking Systems" },
+                  { "name": "Conduit Fittings" },
+                  { "name": "Electrical Conduits" },
+                  { "name": "Electrical Socket Couplers" },
+                  { "name": "Heat-Shrink Tubing" }
+                ]
+              },
+              { "name": "Automatic Transfer Switches (ATSs)" },
+              { "name": "Electric Converters" },
+              { "name": "Electrical Relays" },
+              { "name": "Electrical Switches" },
+              { "name": "Light Switches" },
+              { "name": "Modular Devices Accessories" },
+              { "name": "Push-Button Panels" },
+              { "name": "Remote Power Controllers" },
+              { "name": "Signal Converters" },
+              { "name": "Solar Panels" },
+              { "name": "Solar Panel Accessories" }
+            ]
+          },
+          {
+            "name": "Circuit Protection",
+            "subcategories": [
+              {
+                "name": "Wire Connectors",
+                "subcategories": [
+                  { "name": "S-Video Cables" },
+                  { "name": "Video Cable Adapters" }
+                ]
+              },
+              { "name": "Grounding Hardware" },
+              { "name": "Surge Protectors" },
+              { "name": "Voltage Regulators" }
+            ]
+          },
+          {
+            "name": "Electrical Controls",
+            "subcategories": [
+              {
+                "name": "Electrical Safety Devices & Accessories",
+                "subcategories": [
+                  { "name": "Lockout Hasps & Padlocks" }
+                ]
+              },
+              { "name": "Electrical Timers" },
+              { "name": "Energy Cost Meters" }
+            ]
+          },
+          {
+            "name": "Component (YPbPr) Video Cables",
+            "subcategories": [
+              { "name": "Composite Video Cables" }
+            ]
+          },
+          {
+            "name": "Telecom & Navigation",
+            "subcategories": [
+              {
+                "name": "Call Management Equipment",
+                "subcategories": [
+                  { "name": "Call Management System" },
+                  { "name": "IP Communication Servers" },
+                  { "name": "Private Branch Exchange (PBX) Systems" }
+                ]
+              },
+              {
+                "name": "Conference Equipment",
+                "subcategories": [
+                  { "name": "Meeting Room Consoles" },
+                  { "name": "Audio Conferencing Systems" },
+                  { "name": "AV Conferencing Bridges" },
+                  { "name": "Bluetooth Conference Speakers" },
+                  { "name": "Conference Camera Controllers" },
+                  { "name": "Conference Phones" },
+                  { "name": "Meeting Room Displays" },
+                  { "name": "Speakerphones" },
+                  { "name": "Teleconferencing Equipment" },
+                  { "name": "Video Conferencing Cameras" },
+                  { "name": "Video Conferencing Systems" },
+                  { "name": "Wireless Presentation Systems" }
+                ]
+              },
+              {
+                "name": "Mobile Communication Devices",
+                "subcategories": [
+                  { "name": "Mobile Phones" },
+                  { "name": "Smartphones" }
+                ]
+              },
+              {
+                "name": "Navigational Equipment",
+                "subcategories": [
+                  { "name": "GPS Trackers" },
+                  { "name": "Key Finders" },
+                  { "name": "Navigational Compasses" },
+                  { "name": "Navigators" }
+                ]
+              },
+              {
+                "name": "Radio Communication Equipment",
+                "subcategories": [
+                  { "name": "Two-Way Radios" }
+                ]
+              },
+              {
+                "name": "Smart Wearables",
+                "subcategories": [
+                  { "name": "Activity Trackers" },
+                  { "name": "Head-Mounted Displays" },
+                  { "name": "Smartglasses" },
+                  { "name": "Smartwatches & Sport Watches" }
+                ]
+              },
+              {
+                "name": "Telecommunication Equipment Accessories",
+                "subcategories": [
+                  {
+                    "name": "Call Management Equipment Accessories",
+                    "subcategories": [
+                      { "name": "Private Branch Exchange (PBX) System Accessories" }
+                    ]
+                  },
+                  {
+                    "name": "Mobile Communication Device Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Smartphones & Mobile Phones Accessories" },
+                      { "name": "Mobile Phone Cables" },
+                      { "name": "Mobile Phone Case Accessories" },
+                      { "name": "Mobile Phone Cases" },
+                      { "name": "Mobile Phone Screen Protector Installation Accessories" },
+                      { "name": "Mobile Phone Screen Protectors" },
+                      { "name": "Mobile Phone Spare Parts" },
+                      { "name": "Mobile Phone Starter Kits" },
+                      { "name": "Selfie Sticks" },
+                      { "name": "Vlogger Kits" }
+                    ]
+                  },
+                  { "name": "Smart Wearable Accessories" },
+                  {
+                    "name": "Navigational Equipment Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Navigator Cases" },
+                      { "name": "Navigator Mounts" }
+                    ]
+                  },
+                  {
+                    "name": "Radio Communication Equipment Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Two-Way Radio Accessories" }
+                    ]
+                  },
+                  { "name": "Key Finder Accessories" },
+                  {
+                    "name": "Telephone Equipment Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Caller ID Displays" },
+                      { "name": "DECT Base Stations" },
+                      { "name": "DECT Repeaters" },
+                      { "name": "IP Add-On Modules" },
+                      { "name": "Telephone Cables" },
+                      { "name": "Telephone Handsets" },
+                      { "name": "Telephone Mounts & Stands" },
+                      { "name": "Telephone Rests" },
+                      { "name": "Telephone Spare Parts & Accessories" },
+                      { "name": "Telephone Splitters" },
+                      { "name": "Telephone Switching Equipment" },
+                      { "name": "VoIP Telephone Adapters" }
+                    ]
+                  },
+                  { "name": "Video Conferencing Accessories" },
+                  { "name": "Wireless Presentation System Accessories" }
+                ]
+              },
+              {
+                "name": "Telecommunication Equipment Installation",
+                "subcategories": [
+                  { "name": "Telecom Equipment Installation/Modification Kits" }
+                ]
+              },
+              {
+                "name": "Telephone Equipment",
+                "subcategories": [
+                  { "name": "IP Phones" },
+                  { "name": "Telephones" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Electrical Hardwares & Supplies",
+            "subcategories": [
+              { "name": "Cable Clamps" },
+              { "name": "Cable Insulation" },
+              { "name": "Cable Markers" },
+              { "name": "Cable Organizers" },
+              { "name": "Cable Sleeves" },
+              { "name": "Cable Tie Mounts" },
+              { "name": "Cable Ties" },
+              { "name": "Connector & Cable Seals" },
+              { "name": "Low, Medium & High Voltage Cables" }
+            ]
+          },
+          {
+            "name": "Electrical Boxes & Accessories",
+            "subcategories": [
+              { "name": "Electrical Box Accessories" },
+              { "name": "Electrical Boxes" },
+              { "name": "Electrical Distribution Boards" },
+              { "name": "Electrical Enclosure Accessories" },
+              { "name": "Electrical Enclosures" },
+              { "name": "Electrical Junction Boxes" },
+              { "name": "Power Rack Enclosures" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TV & AUDIO",
+        "subcategories": [
+          {
+            "name": "Audio Visual Equipment",
+            "subcategories": [
+              {
+                "name": "Audio Visual Equipment Parts & Accessories",
+                "subcategories": [
+                  {
+                    "name": "Antennas & Accessories",
+                    "subcategories": [
+                      { "name": "Antenna Accessories" },
+                      { "name": "Radio Antennas" },
+                      { "name": "Satellite Antenna Accessories" },
+                      { "name": "Satellite Antennas" },
+                      { "name": "Television Antennas" }
+                    ]
+                  },
+                  { "name": "AV Equipment Spare Parts" },
+                  {
+                    "name": "Home Audio Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Speaker Drivers" },
+                      { "name": "Speaker Grilles" },
+                      { "name": "Speaker Mounts" }
+                    ]
+                  },
+                  {
+                    "name": "Microphones & Accessories",
+                    "subcategories": [
+                      { "name": "Microphone Parts & Accessories" },
+                      { "name": "Microphone Stands" },
+                      { "name": "Microphones" }
+                    ]
+                  },
+                  {
+                    "name": "Portable Audio/Headphone Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Bluetooth Music Receivers" },
+                      { "name": "Headphone Pillows" },
+                      { "name": "Headphone/Headset Accessories" },
+                      { "name": "MP3/MP4 Player Accessories" },
+                      { "name": "MP3/MP4 Player Cases" },
+                      { "name": "Wireless Audio Transmitters" }
+                    ]
+                  },
+                  {
+                    "name": "Projector Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Projection Lenses" },
+                      { "name": "Projection Screen Accessories" },
+                      { "name": "Projection Screen Materials" },
+                      { "name": "Projection Screens" },
+                      { "name": "Projector Accessories" },
+                      { "name": "Projector Cases" },
+                      { "name": "Projector Lamps" },
+                      { "name": "Projector Mount Accessories" },
+                      { "name": "Projector Mounts" }
+                    ]
+                  },
+                  {
+                    "name": "Remote Controls & Accessories",
+                    "subcategories": [
+                      { "name": "Remote Controls" }
+                    ]
+                  },
+                  {
+                    "name": "Signal Processing/Distribution Parts & Accessories",
+                    "subcategories": [
+                      { "name": "AV Extender Accessories" },
+                      { "name": "Matrix Switch Accessories" }
+                    ]
+                  },
+                  {
+                    "name": "Television Parts & Accessories",
+                    "subcategories": [
+                      { "name": "Digital Media Players" },
+                      { "name": "Smart TV Boxes" },
+                      { "name": "Smart TV Dongles" },
+                      { "name": "TV Accessories" },
+                      { "name": "TV Mount Accessories" },
+                      { "name": "TV Mounts" },
+                      { "name": "TV Signal Amplifiers" },
+                      { "name": "TV Spare Parts" },
+                      { "name": "Wireless Display Adapters" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Home Audio",
+                "subcategories": [
+                  {
+                    "name": "Home Audio Components",
+                    "subcategories": [
+                      { "name": "Audio Turntables" },
+                      { "name": "DVD/Blu-Ray Players" }
+                    ]
+                  },
+                  {
+                    "name": "Speakers",
+                    "subcategories": [
+                      { "name": "Loudspeakers" },
+                      { "name": "Soundbar Speakers" },
+                      { "name": "Speaker Sets" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Portable Audio & Headphones",
+                "subcategories": [
+                  { "name": "Cassette Players" },
+                  { "name": "Dictaphones" },
+                  { "name": "Docking Speakers" },
+                  { "name": "FM Transmitters" },
+                  { "name": "Headphones & Headsets" },
+                  { "name": "MP3/MP4 Players" },
+                  { "name": "Portable Speakers" },
+                  { "name": "Radios" }
+                ]
+              },
+              {
+                "name": "Projectors",
+                "subcategories": [
+                  { "name": "Overhead Projectors" },
+                  { "name": "Data Projectors" }
+                ]
+              },
+              {
+                "name": "Signal Processing & Distribution",
+                "subcategories": [
+                  { "name": "Audio Amplifiers" },
+                  { "name": "Audio Converters" },
+                  { "name": "Audio Mixers" },
+                  { "name": "Audio Splitters" },
+                  { "name": "Audio Switches" },
+                  { "name": "AV Extenders" },
+                  { "name": "AV Processors" },
+                  { "name": "Control Processors" },
+                  { "name": "Digital Audio Streamers" },
+                  { "name": "EDID Emulators" },
+                  { "name": "Matrix Switchers" },
+                  { "name": "Video Capturing Devices" },
+                  { "name": "Video Distributors" },
+                  { "name": "Video Line Amplifiers" },
+                  { "name": "Video Mixers" },
+                  { "name": "Video Scalers" },
+                  { "name": "Video Signal Converters" },
+                  { "name": "Video Splitters" },
+                  { "name": "Video Switches" },
+                  { "name": "Video Test Pattern Generators" },
+                  { "name": "Video Wall Processors" }
+                ]
+              },
+              {
+                "name": "Photo & Video Equipment",
+                "subcategories": [
+                  {
+                    "name": "Camera Accessories",
+                    "subcategories": [
+                      { "name": "Action Sports Camera Accessories" },
+                      { "name": "Audio Modules" },
+                      { "name": "Camera Brackets" },
+                      { "name": "Camera Cables" },
+                      { "name": "Camera Cases" },
+                      { "name": "Camera Data Transmitters" },
+                      { "name": "Camera Drone Parts" },
+                      { "name": "Camera Flashes" },
+                      { "name": "Camera Housings" },
+                      { "name": "Camera Kits" },
+                      { "name": "Camera Lens Filters" },
+                      { "name": "Camera Lenses" },
+                      { "name": "Camera Mounting Accessories" },
+                      { "name": "Camera Remote Controls" },
+                      { "name": "Camera Screen Protectors" },
+                      { "name": "Camera/Camcorder Batteries" },
+                      { "name": "Digital Camera Grips" },
+                      { "name": "Instant Picture Films" },
+                      { "name": "Lens Caps" },
+                      { "name": "Lens Hoods" },
+                      { "name": "Straps" },
+                      { "name": "Tripod Cases" },
+                      { "name": "Tripod Head Accessories" },
+                      { "name": "Tripods" },
+                      { "name": "Tripods Accessories" },
+                      { "name": "Underwater Camera Housings" },
+                      { "name": "Video Stabilizer Accessories" },
+                      { "name": "Video Stabilizers" }
+                    ]
+                  },
+                  {
+                    "name": "Cameras & Camcorders",
+                    "subcategories": [
+                      { "name": "360 Cameras" },
+                      { "name": "Action Sports Cameras" },
+                      { "name": "Camera Drones" },
+                      { "name": "Digital Cameras" },
+                      { "name": "Document Cameras" },
+                      { "name": "Gimbal Camera Accessories" },
+                      { "name": "Gimbal Cameras" },
+                      { "name": "Webcam Accessories" },
+                      { "name": "Webcams" }
+                    ]
+                  },
+                  {
+                    "name": "Digital Photo Frames & Accessories",
+                    "subcategories": [
+                      { "name": "Digital Photo Frame Accessories" },
+                      { "name": "Digital Photo Frames" }
+                    ]
+                  },
+                  {
+                    "name": "Photographic Filmmaking Supplies",
+                    "subcategories": [
+                      { "name": "Photo Paper" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Televisions",
+                "subcategories": [
+                  { "name": "TVs" },
+                  { "name": "Hospitality TVs" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      { "name": "Cable Gender Changers" },
+      {
+        "name":"SOFTWARES",
+        "subcategories":[
+           {
+              "name":"Barcode & Labelling Software"
+           },
+           {
+              "name":"Business Management Software"
+           },
+           {
+              "name":"Cloud Solutions"
+           },
+           {
+              "name":"Office",
+              "subcategories":[
+                 {
+                    "name":"Office Suites"
+                 },
+                 {
+                    "name":"Office Electronics",
+                    "subcategories":[
+                       {
+                          "name":"Calculators & Accessories",
+                          "subcategories":[
+                             {
+                                "name":"Calculators"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Fax Machines & Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Fax Machines"
+                             },
+                             {
+                                "name":"Fax Supplies"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Laminators & Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Lamination Films"
+                             },
+                             {
+                                "name":"Laminator Pouches"
+                             },
+                             {
+                                "name":"Laminators"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Paper Shredders & Accessories",
+                          "subcategories":[
+                             {
+                                "name":"Paper Shredder Accessories"
+                             },
+                             {
+                                "name":"Paper Shredders"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Time Card Machines & Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Time Card Machines"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Office Furniture",
+                    "subcategories":[
+                       {
+                          "name":"Office Carts & Stands",
+                          "subcategories":[
+                             {
+                                "name":"Multimedia Carts & Stands"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Office Chairs & Stools",
+                          "subcategories":[
+                             {
+                                "name":"Waiting Chairs"
+                             },
+                             {
+                                "name":"Office & Computer Chairs"
+                             },
+                             {
+                                "name":"Saddle Chairs"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Office Desks & Workstations",
+                          "subcategories":[
+                             {
+                                "name":"Computer Desks"
+                             },
+                             {
+                                "name":"Desks"
+                             },
+                             {
+                                "name":"Standing Desk Frames"
+                             },
+                             {
+                                "name":"Standing Desks"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Office Furniture Accessories",
+                          "subcategories":[
+                             {
+                                "name":"Backrests"
+                             },
+                             {
+                                "name":"Chair Back Supports"
+                             },
+                             {
+                                "name":"Computer Furniture Parts"
+                             },
+                             {
+                                "name":"Foot Rests"
+                             },
+                             {
+                                "name":"Furniture Floor Protector Mats"
+                             },
+                             {
+                                "name":"Multimedia Cart Accessories"
+                             },
+                             {
+                                "name":"Office & Computer Chair Accessories"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Office Privacy & Acoustic Solutions",
+                          "subcategories":[
+                             {
+                                "name":"Acoustic Panels & Screens"
+                             },
+                             {
+                                "name":"Workspace Dividers"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Office Storage Furniture",
+                          "subcategories":[
+                             {
+                                "name":"Office Bookcases"
+                             },
+                             {
+                                "name":"Filing Cabinets"
+                             },
+                             {
+                                "name":"Key Cabinets & Organizers"
+                             },
+                             {
+                                "name":"Lockers"
+                             },
+                             {
+                                "name":"Office Drawer Units"
+                             },
+                             {
+                                "name":"Printer Cabinets & Stands"
+                             },
+                             {
+                                "name":"Office Storage Cabinets"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Presentation Supplies",
+                    "subcategories":[
+                       {
+                          "name":"Boards",
+                          "subcategories":[
+                             {
+                                "name":"Bulletin Boards"
+                             },
+                             {
+                                "name":"Chalk Boards"
+                             },
+                             {
+                                "name":"Dry Erase Boards"
+                             },
+                             {
+                                "name":"Flip Charts"
+                             },
+                             {
+                                "name":"Insert Notice Boards"
+                             },
+                             {
+                                "name":"Interactive Whiteboards"
+                             },
+                             {
+                                "name":"Magnetic Boards"
+                             },
+                             {
+                                "name":"Planning Boards"
+                             },
+                             {
+                                "name":"Whiteboards"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Display Furniture",
+                          "subcategories":[
+                             {
+                                "name":"Literature Racks"
+                             },
+                             {
+                                "name":"Poster Stands"
+                             },
+                             {
+                                "name":"Presentation Displays"
+                             },
+                             {
+                                "name":"Showcases"
+                             },
+                             {
+                                "name":"Sign Holders & Information Stands"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Presentation Accessories",
+                          "subcategories":[
+                             {
+                                "name":"Board Accessories"
+                             },
+                             {
+                                "name":"Board Cleaning Kits"
+                             },
+                             {
+                                "name":"Flip Chart Accessories"
+                             },
+                             {
+                                "name":"Interactive Whiteboard Accessories"
+                             },
+                             {
+                                "name":"Planning Board Accessories"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Shipping & Moving Supplies",
+                    "subcategories":[
+                       {
+                          "name":"Mail Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Addressing Labels"
+                             },
+                             {
+                                "name":"Envelopes & Mailers",
+                                "subcategories":[
+                                   {
+                                      "name":"Envelopes"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Mail Handling Equipment",
+                                "subcategories":[
+                                   {
+                                      "name":"Postal Scales"
+                                   }
+                                ]
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Stationery & Office Supplies",
+                    "subcategories":[
+                       {
+                          "name":"Binding Systems, Paper & Document Handling",
+                          "subcategories":[
+                             {
+                                "name":"Binding Covers"
+                             },
+                             {
+                                "name":"Binding Machines"
+                             },
+                             {
+                                "name":"Folder Binding Accessories"
+                             },
+                             {
+                                "name":"Paper Cutters"
+                             },
+                             {
+                                "name":"Thermal Binding Machines"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Correction Media",
+                          "subcategories":[
+                             {
+                                "name":"Correction Pens"
+                             },
+                             {
+                                "name":"Correction Tape Refills"
+                             },
+                             {
+                                "name":"Correction Tapes"
+                             },
+                             {
+                                "name":"Eraser Refills"
+                             },
+                             {
+                                "name":"Erasers"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Desk Accessories & Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Calendars, Planners & Organizers",
+                                "subcategories":[
+                                   {
+                                      "name":"Appointment Books"
+                                   },
+                                   {
+                                      "name":"Calendars"
+                                   },
+                                   {
+                                      "name":"Desk Pads"
+                                   },
+                                   {
+                                      "name":"Personal Organizers"
+                                   },
+                                   {
+                                      "name":"Photo Albums"
+                                   },
+                                   {
+                                      "name":"Wall Planners"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Desk & Workspace Organizers",
+                                "subcategories":[
+                                   {
+                                      "name":"Book Holders"
+                                   },
+                                   {
+                                      "name":"Business Card Holders"
+                                   },
+                                   {
+                                      "name":"Charging Station Organizers"
+                                   },
+                                   {
+                                      "name":"Desk Drawer Organizers"
+                                   },
+                                   {
+                                      "name":"Desk Sorters"
+                                   },
+                                   {
+                                      "name":"Desk Trays/Organizers"
+                                   },
+                                   {
+                                      "name":"Document Holders"
+                                   },
+                                   {
+                                      "name":"Paperclip Dispensers"
+                                   },
+                                   {
+                                      "name":"Pen & Pencil Holders"
+                                   },
+                                   {
+                                      "name":"Tape Dispensers"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Desk Supplies",
+                                "subcategories":[
+                                   {
+                                      "name":"Business Stamp Accessories"
+                                   },
+                                   {
+                                      "name":"Business Stamps"
+                                   },
+                                   {
+                                      "name":"Ink Pad Refills"
+                                   },
+                                   {
+                                      "name":"Ink Pads"
+                                   },
+                                   {
+                                      "name":"Non-metallic Nameplates"
+                                   },
+                                   {
+                                      "name":"Pencil Sharpeners"
+                                   },
+                                   {
+                                      "name":"Stapler Units"
+                                   },
+                                   {
+                                      "name":"Stationery & Craft Scissors"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Staplers & Hole Punches",
+                                "subcategories":[
+                                   {
+                                      "name":"Electric Staplers"
+                                   },
+                                   {
+                                      "name":"Hole Punch Accessories"
+                                   },
+                                   {
+                                      "name":"Hole Punches"
+                                   },
+                                   {
+                                      "name":"Staple Removers"
+                                   },
+                                   {
+                                      "name":"Staplers"
+                                   }
+                                ]
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Drafting Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Rulers & Protractors",
+                                "subcategories":[
+                                   {
+                                      "name":"Rulers"
+                                   }
+                                ]
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Folders, Binders & Indexes",
+                          "subcategories":[
+                             {
+                                "name":"Clipboards & Forms Holders",
+                                "subcategories":[
+                                   {
+                                      "name":"Clipboards"
+                                   },
+                                   {
+                                      "name":"Identity Badge Holder Accessories"
+                                   },
+                                   {
+                                      "name":"Identity Badges & Badge Holders"
+                                   },
+                                   {
+                                      "name":"Label Holders"
+                                   },
+                                   {
+                                      "name":"Magnetic Frames"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Display Books & Folders",
+                                "subcategories":[
+                                   {
+                                      "name":"Document Display Carousels"
+                                   },
+                                   {
+                                      "name":"Folders"
+                                   },
+                                   {
+                                      "name":"Hanging Folder Accessories"
+                                   },
+                                   {
+                                      "name":"Hanging Folders"
+                                   },
+                                   {
+                                      "name":"Presentation Display Books"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"File Sorters & Storage",
+                                "subcategories":[
+                                   {
+                                      "name":"Box Files"
+                                   },
+                                   {
+                                      "name":"File Storage Boxes"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Filing Products",
+                                "subcategories":[
+                                   {
+                                      "name":"File Jackets & File Pockets",
+                                      "subcategories":[
+                                         {
+                                            "name":"Card Pockets"
+                                         },
+                                         {
+                                            "name":"Filing Pockets"
+                                         },
+                                         {
+                                            "name":"Sheet Protectors"
+                                         }
+                                      ]
+                                   },
+                                   {
+                                      "name":"Index & Tab Dividers",
+                                      "subcategories":[
+                                         {
+                                            "name":"Divider Books"
+                                         },
+                                         {
+                                            "name":"Dividers"
+                                         },
+                                         {
+                                            "name":"Report Covers"
+                                         },
+                                         {
+                                            "name":"Tab Indexes"
+                                         }
+                                      ]
+                                   },
+                                   {
+                                      "name":"Ring Binders"
+                                   }
+                                ]
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Forms, Recordkeeping & Writing Paper",
+                          "subcategories":[
+                             {
+                                "name":"Account Books & Record Journals",
+                                "subcategories":[
+                                   {
+                                      "name":"Accounting Forms & Books"
+                                   },
+                                   {
+                                      "name":"Visitor Books"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Notebooks, Writing Pads & Diaries",
+                                "subcategories":[
+                                   {
+                                      "name":"Diaries"
+                                   },
+                                   {
+                                      "name":"Index Cards"
+                                   },
+                                   {
+                                      "name":"Planner Pads"
+                                   },
+                                   {
+                                      "name":"Self-Adhesive Note Paper"
+                                   },
+                                   {
+                                      "name":"Writing Notebooks"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Office & School Paper",
+                                "subcategories":[
+                                   {
+                                      "name":"Ledger Paper"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Office Labels & Stickers",
+                                "subcategories":[
+                                   {
+                                      "name":"Non-Adhesive Labels"
+                                   },
+                                   {
+                                      "name":"Self-Adhesive Labels"
+                                   }
+                                ]
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Stationery Fasteners, Adhesives & Tapes",
+                          "subcategories":[
+                             {
+                                "name":"Clips & Fasteners",
+                                "subcategories":[
+                                   {
+                                      "name":"Clasp Fasteners"
+                                   },
+                                   {
+                                      "name":"Document Clips"
+                                   },
+                                   {
+                                      "name":"Paper Clips"
+                                   },
+                                   {
+                                      "name":"Pins & Tacks"
+                                   },
+                                   {
+                                      "name":"Staples"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Tapes & Adhesives",
+                                "subcategories":[
+                                   {
+                                      "name":"Self Adhesive Tabs"
+                                   },
+                                   {
+                                      "name":"Stationery Adhesive Removers"
+                                   },
+                                   {
+                                      "name":"Stationery Adhesives"
+                                   },
+                                   {
+                                      "name":"Stationery Tapes"
+                                   }
+                                ]
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Writing Instruments",
+                          "subcategories":[
+                             {
+                                "name":"Chalk, Crayons & Pencils",
+                                "subcategories":[
+                                   {
+                                      "name":"Charcoal Pencils"
+                                   },
+                                   {
+                                      "name":"Colour Pencils"
+                                   },
+                                   {
+                                      "name":"Crayons"
+                                   },
+                                   {
+                                      "name":"Graphite Pencils"
+                                   },
+                                   {
+                                      "name":"Mechanical Pencils"
+                                   },
+                                   {
+                                      "name":"Writing Chalk"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Markers & Felt Tip Pens",
+                                "subcategories":[
+                                   {
+                                      "name":"Stamp Markers"
+                                   },
+                                   {
+                                      "name":"Chalk Markers"
+                                   },
+                                   {
+                                      "name":"Felt Pens"
+                                   },
+                                   {
+                                      "name":"Fineliners"
+                                   },
+                                   {
+                                      "name":"Markers"
+                                   },
+                                   {
+                                      "name":"Paint Markers"
+                                   },
+                                   {
+                                      "name":"Permanent Markers"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Pens",
+                                "subcategories":[
+                                   {
+                                      "name":"Ballpoint Pens"
+                                   },
+                                   {
+                                      "name":"Calligraphy Pens"
+                                   },
+                                   {
+                                      "name":"Fountain Pens"
+                                   },
+                                   {
+                                      "name":"Gel Pens"
+                                   },
+                                   {
+                                      "name":"Rollerball Pens"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Writing Instrument Refills",
+                                "subcategories":[
+                                   {
+                                      "name":"Lead Refills"
+                                   },
+                                   {
+                                      "name":"Marker Refills"
+                                   },
+                                   {
+                                      "name":"Pen Refills"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Writing Instrument Sets",
+                                "subcategories":[
+                                   {
+                                      "name":"Pen & Pencil Sets"
+                                   },
+                                   {
+                                      "name":"Pen Sets"
+                                   },
+                                   {
+                                      "name":"Stationery Sets"
+                                   }
+                                ]
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Operating Systems"
+                 },
+                 {
+                    "name":"Conferencing Software"
+                 },
+                 {
+                    "name":"General Utility Software"
+                 },
+                 {
+                    "name":"Warranty & Support",
+                    "subcategories":[
+                       {
+                          "name":"Data Storage Services"
+                       },
+                       {
+                          "name":"Installation Services"
+                       },
+                       {
+                          "name":"IT Courses"
+                       },
+                       {
+                          "name":"IT Support Services"
+                       },
+                       {
+                          "name":"Maintenance & Support Fees"
+                       },
+                       {
+                          "name":"Manufacturing Equipment Repair Services"
+                       },
+                       {
+                          "name":"Warranty & Support Extensions"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Network Management Software"
+                 },
+                 {
+                    "name":"Graphics Software"
+                 },
+                 {
+                    "name":"Antivirus Security Software",
+                    "subcategories":[
+                       {
+                          "name":"Video Surveillance Software"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Storage Networking Software"
+                 },
+                 {
+                    "name":"Software Licenses/Upgrades"
+                 },
+                 {
+                    "name":"Virtualization Software"
+                 }
+              ]
+           }
+        ]
+      },
+      {
+        "name": "GAMING",
+        "subcategories": [
+          {
+            "name": "Video Games",
+            "subcategories": [
+              {
+                "name": "Video Game Add-Ons & Downloadable Content (DLC)"
+              }
+            ]
+          },
+          {
+            "name": "Flight/Racing Simulator Accessories"
+          },
+          {
+            "name": "Game Console Parts & Accessories",
+            "subcategories": [
+              {
+                "name": "Portable Game Console Cases"
+              },
+              {
+                "name": "Portable Game Consoles"
+              }
+            ]
+          },
+          {
+            "name": "Game Consoles"
+          },
+          {
+            "name": "Gaming Controllers"
+          },
+          {
+            "name": "Gaming Controller Accessories"
+          }
+        ]
+      },
+      {
+        "name":"GADGETS",
+        "subcategories":[
+           {
+              "name":"Home",
+              "subcategories":[
+                 {
+                    "name":"Cleaning Agents, Tools & Supplies",
+                    "subcategories":[
+                       {
+                          "name":"Cleaning Agents",
+                          "subcategories":[
+                             {
+                                "name":"Descalers"
+                             },
+                             {
+                                "name":"Household Cleaners",
+                                "subcategories":[
+                                   {
+                                      "name":"All-Purpose Cleaners"
+                                   },
+                                   {
+                                      "name":"Glass Cleaners"
+                                   },
+                                   {
+                                      "name":"Household Disinfectants"
+                                   }
+                                ]
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Cleaning Tools & Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Carpet Cleaning Machines"
+                             },
+                             {
+                                "name":"Cleaning Cloths"
+                             },
+                             {
+                                "name":"Cleaning Gloves"
+                             },
+                             {
+                                "name":"Compressed Air Dusters"
+                             },
+                             {
+                                "name":"Disinfecting Wipes"
+                             },
+                             {
+                                "name":"Dry Cleaners"
+                             },
+                             {
+                                "name":"Equipment Cleansing Kits"
+                             },
+                             {
+                                "name":"Equipment Dust Covers"
+                             },
+                             {
+                                "name":"Robot Vacuums"
+                             },
+                             {
+                                "name":"Scrub Brushes"
+                             },
+                             {
+                                "name":"Vacuum Accessories & Supplies"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Waste Containers & Recycling",
+                          "subcategories":[
+                             {
+                                "name":"Trash Cans"
+                             },
+                             {
+                                "name":"Waste Container Lids"
+                             },
+                             {
+                                "name":"Waste Containers"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Home Furniture",
+                    "subcategories":[
+                       {
+                          "name":"Home Entertainment Furniture",
+                          "subcategories":[
+                             {
+                                "name":"AV Equipment Shelves"
+                             },
+                             {
+                                "name":"AV Equipment Stands"
+                             },
+                             {
+                                "name":"AV Stand Accessories"
+                             },
+                             {
+                                "name":"TV Stands & Entertainment Centres"
+                             },
+                             {
+                                "name":"Video Game Chair Parts & Accessories"
+                             },
+                             {
+                                "name":"Video Game Chairs"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Building & Construction",
+                    "subcategories":[
+                       {
+                          "name":"Work Tools & Hardware",
+                          "subcategories":[
+                             {
+                                "name":"Construction Hardware & Consumables",
+                                "subcategories":[
+                                   {
+                                      "name":"Fasteners",
+                                      "subcategories":[
+                                         {
+                                            "name":"Coil Springs"
+                                         },
+                                         {
+                                            "name":"Brackets & Braces"
+                                         },
+                                         {
+                                            "name":"Grommets & Rings"
+                                         },
+                                         {
+                                            "name":"Mounting Tapes & Labels"
+                                         },
+                                         {
+                                            "name":"Nuts"
+                                         },
+                                         {
+                                            "name":"Screws & Bolts"
+                                         }
+                                      ]
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Cordless Tools",
+                                "subcategories":[
+                                   {
+                                      "name":"Cordless Tool Batteries & Chargers"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Hand Tools",
+                                "subcategories":[
+                                   {
+                                      "name":"Cutting, Punching & Cable Assembly Tools",
+                                      "subcategories":[
+                                         {
+                                            "name":"Cable Crimper Accessories"
+                                         },
+                                         {
+                                            "name":"Cable Crimpers"
+                                         },
+                                         {
+                                            "name":"Cable Preparation Tool Kits"
+                                         },
+                                         {
+                                            "name":"Cable Strippers"
+                                         },
+                                         {
+                                            "name":"Hand Saws"
+                                         },
+                                         {
+                                            "name":"Punches, Nail Sets & Drifts"
+                                         },
+                                         {
+                                            "name":"Punch Down Tools"
+                                         },
+                                         {
+                                            "name":"Utility Knives"
+                                         },
+                                         {
+                                            "name":"Wire Cutters"
+                                         }
+                                      ]
+                                   },
+                                   {
+                                      "name":"Hammers"
+                                   },
+                                   {
+                                      "name":"Holding & Clamping Tools",
+                                      "subcategories":[
+                                         {
+                                            "name":"Clamps"
+                                         },
+                                         {
+                                            "name":"Pliers"
+                                         }
+                                      ]
+                                   },
+                                   {
+                                      "name":"Manual Fastening Tools",
+                                      "subcategories":[
+                                         {
+                                            "name":"Manual Staple Guns"
+                                         }
+                                      ]
+                                   },
+                                   {
+                                      "name":"Measuring & Layout Tools",
+                                      "subcategories":[
+                                         {
+                                            "name":"Calipers"
+                                         }
+                                      ]
+                                   },
+                                   {
+                                      "name":"Prying, Bending & Metal Forming Tools",
+                                      "subcategories":[
+                                         {
+                                            "name":"Tube & Pipe Bending Tools"
+                                         }
+                                      ]
+                                   },
+                                   {
+                                      "name":"Wrenches & Drivers",
+                                      "subcategories":[
+                                         {
+                                            "name":"Combination Wrenches"
+                                         },
+                                         {
+                                            "name":"Hex Keys"
+                                         },
+                                         {
+                                            "name":"Manual Screwdrivers"
+                                         },
+                                         {
+                                            "name":"Mechanics Tool Sets"
+                                         },
+                                         {
+                                            "name":"Nut Drivers"
+                                         },
+                                         {
+                                            "name":"Screwdriver Bits"
+                                         },
+                                         {
+                                            "name":"Torque Wrench Accessories"
+                                         }
+                                      ]
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Power Tools",
+                                "subcategories":[
+                                   {
+                                      "name":"Antistatic Mats"
+                                   },
+                                   {
+                                      "name":"Drills"
+                                   },
+                                   {
+                                      "name":"Electric Air Dusters"
+                                   },
+                                   {
+                                      "name":"Electric Air Pumps"
+                                   },
+                                   {
+                                      "name":"Glue Gun Accessories"
+                                   },
+                                   {
+                                      "name":"Hot Glue Guns & Pens"
+                                   },
+                                   {
+                                      "name":"Power Jigsaws"
+                                   },
+                                   {
+                                      "name":"Power Wrenches"
+                                   },
+                                   {
+                                      "name":"Power Screwdrivers & Impact Drivers"
+                                   },
+                                   {
+                                      "name":"Tile Routers"
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Tool Attachments & Accessories",
+                                "subcategories":[
+                                   {
+                                      "name":"Multifunction Tool Attachments"
+                                   },
+                                   {
+                                      "name":"Rotary Tool Parts & Accessories",
+                                      "subcategories":[
+                                         {
+                                            "name":"Drill Bits"
+                                         }
+                                      ]
+                                   },
+                                   {
+                                      "name":"Saw Blades",
+                                      "subcategories":[
+                                         {
+                                            "name":"Drill Hole Saws"
+                                         }
+                                      ]
+                                   }
+                                ]
+                             },
+                             {
+                                "name":"Welding & Soldering",
+                                "subcategories":[
+                                   {
+                                      "name":"Welding & Soldering Accessories & Supplies",
+                                      "subcategories":[
+                                         {
+                                            "name":"Soldering Iron & Station Accessories"
+                                         }
+                                      ]
+                                   }
+                                ]
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Security & Automation",
+                    "subcategories":[
+                       {
+                          "name":"Access & Control",
+                          "subcategories":[
+                             {
+                                "name":"Access Cards"
+                             },
+                             {
+                                "name":"Access Control Reader Accessories"
+                             },
+                             {
+                                "name":"Access Control Readers"
+                             },
+                             {
+                                "name":"Audio Intercom Systems"
+                             },
+                             {
+                                "name":"Blind/Shutter Accessories"
+                             },
+                             {
+                                "name":"Cable Lock Accessories"
+                             },
+                             {
+                                "name":"Cable Locks"
+                             },
+                             {
+                                "name":"Doorbell Chime Covers"
+                             },
+                             {
+                                "name":"Doorbell Chimes"
+                             },
+                             {
+                                "name":"Doorbell Kits"
+                             },
+                             {
+                                "name":"Doorbell Push Buttons"
+                             },
+                             {
+                                "name":"Electromagnetic Lock Accessories"
+                             },
+                             {
+                                "name":"Electromagnetic Locks"
+                             },
+                             {
+                                "name":"Exit Buttons"
+                             },
+                             {
+                                "name":"Fingerprint Readers"
+                             },
+                             {
+                                "name":"Hardware Authenticators"
+                             },
+                             {
+                                "name":"Intercom System Accessories"
+                             },
+                             {
+                                "name":"Number Locks"
+                             },
+                             {
+                                "name":"Padlocks"
+                             },
+                             {
+                                "name":"Port Blockers"
+                             },
+                             {
+                                "name":"RFID Readers"
+                             },
+                             {
+                                "name":"RFID Tags"
+                             },
+                             {
+                                "name":"Safes"
+                             },
+                             {
+                                "name":"Security Access Control Systems"
+                             },
+                             {
+                                "name":"Security Door Controllers"
+                             },
+                             {
+                                "name":"Smart Card Readers"
+                             },
+                             {
+                                "name":"Video Intercom Systems"
+                             },
+                             {
+                                "name":"Visitor Management Systems"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Facility Safety Products",
+                          "subcategories":[
+                             {
+                                "name":"Panic Buttons"
+                             },
+                             {
+                                "name":"Sirens"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Household Sensors & Alarms",
+                          "subcategories":[
+                             {
+                                "name":"Alarm Receivers"
+                             },
+                             {
+                                "name":"Alarm & Detector Accessories"
+                             },
+                             {
+                                "name":"Door & Window Sensors"
+                             },
+                             {
+                                "name":"Gas Detectors"
+                             },
+                             {
+                                "name":"Energy Management Modules"
+                             },
+                             {
+                                "name":"Motion Detectors"
+                             },
+                             {
+                                "name":"Smoke Detectors"
+                             },
+                             {
+                                "name":"Water Detectors"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Security Devices",
+                          "subcategories":[
+                             {
+                                "name":"Security Device Components"
+                             },
+                             {
+                                "name":"Security Alarm Systems"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Smart Home Devices",
+                          "subcategories":[
+                             {
+                                "name":"Keyless Entry Remotes & Key Fobs"
+                             },
+                             {
+                                "name":"Smart Home Actuators"
+                             },
+                             {
+                                "name":"Smart Home Central Control Unit Accessories"
+                             },
+                             {
+                                "name":"Smart Home Central Control Units"
+                             },
+                             {
+                                "name":"Smart Home Environmental Sensors"
+                             },
+                             {
+                                "name":"Smart Home Light Controllers"
+                             },
+                             {
+                                "name":"Smart Home Multi-Sensors"
+                             },
+                             {
+                                "name":"Smart Home Security Kits"
+                             },
+                             {
+                                "name":"Smart Lock Accessories"
+                             },
+                             {
+                                "name":"Smart Locks"
+                             },
+                             {
+                                "name":"Smart Plugs"
+                             },
+                             {
+                                "name":"Smart Power Strips"
+                             },
+                             {
+                                "name":"Smart Smoke Detectors"
+                             },
+                             {
+                                "name":"Virtual Assistant Devices"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Surveillance Systems",
+                          "subcategories":[
+                             {
+                                "name":"Body Camera Accessories"
+                             },
+                             {
+                                "name":"Body Cameras"
+                             },
+                             {
+                                "name":"Digital Video Recorders (DVR)"
+                             },
+                             {
+                                "name":"Digital Video Recorders (DVR) Accessories"
+                             },
+                             {
+                                "name":"Dummy Security Cameras"
+                             },
+                             {
+                                "name":"Network Surveillance Servers"
+                             },
+                             {
+                                "name":"Network Video Recorders (NVR)"
+                             },
+                             {
+                                "name":"Security Camera Accessories"
+                             },
+                             {
+                                "name":"Security Cameras"
+                             },
+                             {
+                                "name":"Surveillance Monitors"
+                             },
+                             {
+                                "name":"Video Decoders"
+                             },
+                             {
+                                "name":"Video Servers/Encoders"
+                             },
+                             {
+                                "name":"Video Surveillance Kits"
+                             }
+                          ]
+                       }
+                    ]
+                 }
+              ]
+           },
+           {
+              "name":"Lighting",
+              "subcategories":[
+                 {
+                    "name":"Bulbs",
+                    "subcategories":[
+                       {
+                          "name":"Infrared Bulbs"
+                       },
+                       {
+                          "name":"LED Bulbs"
+                       },
+                       {
+                          "name":"Ultraviolet (UV) Bulbs"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Ceiling Lighting"
+                 },
+                 {
+                    "name":"Convenience Lighting"
+                 },
+                 {
+                    "name":"Decoration Lighting"
+                 },
+                 {
+                    "name":"Dimmers"
+                 },
+                 {
+                    "name":"Floodlights"
+                 },
+                 {
+                    "name":"LED Panel Lights"
+                 },
+                 {
+                    "name":"Lighting Parts & Accessories",
+                    "subcategories":[
+                       {
+                          "name":"Lighting Accessories"
+                       },
+                       {
+                          "name":"Lighting Rings"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Mood Lighting"
+                 },
+                 {
+                    "name":"Outdoor Lighting"
+                 },
+                 {
+                    "name":"Smart Lighting"
+                 },
+                 {
+                    "name":"Strip Lights"
+                 },
+                 {
+                    "name":"Table Lamps"
+                 },
+                 {
+                    "name":"Vehicle Lighting",
+                    "subcategories":[
+                       {
+                          "name":"Bicycle Lights"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Work Lights"
+                 }
+              ]
+           },
+           {
+              "name":"Luggage",
+              "subcategories":[
+                 {
+                    "name":"Shopping Bags"
+                 }
+              ]
+           },
+           {
+              "name":"Backpacks",
+              "subcategories":[
+                 {
+                    "name":"Waist Bags"
+                 },
+                 {
+                    "name":"Backpack Covers"
+                 }
+              ]
+           },
+           {
+              "name":"Briefcases",
+              "subcategories":[
+                 {
+                    "name":"Equipment Cases",
+                    "subcategories":[
+                       {
+                          "name":"Case Accessories"
+                       },
+                       {
+                          "name":"Waterproof Pouches"
+                       },
+                       {
+                          "name":"Wallets, Card Cases & Travel Document Holders",
+                          "subcategories":[
+                             {
+                                "name":"Handbags & Shoulder Bags"
+                             },
+                             {
+                                "name":"Key Rings & Cases"
+                             }
+                          ]
+                       }
+                    ]
+                 }
+              ]
+           },
+           {
+              "name":"Travel Accessories",
+              "subcategories":[
+                 {
+                    "name":"Packing Aids & Organizers"
+                 }
+              ]
+           },
+           {
+              "name":"Industrial & Lab Equipment",
+              "subcategories":[
+                 {
+                    "name":"Electronic Components & Supplies",
+                    "subcategories":[
+                       {
+                          "name":"Jumper Wires"
+                       },
+                       {
+                          "name":"Programmable Logic Controller (PLC) Modules"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Industrial Furniture & Storage Structures",
+                    "subcategories":[
+                       {
+                          "name":"Industrial Shelves & Racks"
+                       },
+                       {
+                          "name":"Industrial Storage Cabinets"
+                       },
+                       {
+                          "name":"Network Equipment Enclosures"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Labelling Machines",
+                    "subcategories":[
+                       {
+                          "name":"Label Applying Machines"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Material Handling Equipment",
+                    "subcategories":[
+                       {
+                          "name":"Industrial Carts & Trucks",
+                          "subcategories":[
+                             {
+                                "name":"Hand Trucks"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Measuring, Testing & Control",
+                    "subcategories":[
+                       {
+                          "name":"Electrical Measuring & Testing Equipment",
+                          "subcategories":[
+                             {
+                                "name":"IoT Platforms"
+                             },
+                             {
+                                "name":"Industrial Environmental Sensors & Monitors"
+                             },
+                             {
+                                "name":"IoT Platform Parts & Accessories"
+                             },
+                             {
+                                "name":"Test Probes"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Indicating Instruments",
+                          "subcategories":[
+                             {
+                                "name":"Liquid Leak Detectors"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Substance Analysis Instrumentation",
+                          "subcategories":[
+                             {
+                                "name":"Hygrometers & Psychrometers"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Temperature & Humidity Measuring Instruments",
+                          "subcategories":[
+                             {
+                                "name":"Temperature Transmitters"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Medical Cleaning & Sterilization Products",
+                    "subcategories":[
+                       {
+                          "name":"Ultraviolet Sterilizers"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Other Power Supplies",
+                    "subcategories":[
+                       {
+                          "name":"Industrial Rechargeable Batteries"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Retail Store Equipment & Supplies",
+                    "subcategories":[
+                       {
+                          "name":"Money Handling Products",
+                          "subcategories":[
+                             {
+                                "name":"Cash & Ticket Boxes"
+                             },
+                             {
+                                "name":"Cash Box Tray Accessories"
+                             },
+                             {
+                                "name":"Cash Drawers"
+                             },
+                             {
+                                "name":"Cash Trays"
+                             },
+                             {
+                                "name":"Counterfeit Bill Detectors"
+                             },
+                             {
+                                "name":"Fiscal Servers"
+                             },
+                             {
+                                "name":"Money Counting Machines"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Retail Displays, Racks & Shelving Systems",
+                          "subcategories":[
+                             {
+                                "name":"Retail Display Stand Accessories"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Retail Store Security & Anti-Theft Equipment",
+                          "subcategories":[
+                             {
+                                "name":"People Counters"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Retail Store Mannequins & Clothing Forms",
+                          "subcategories":[
+                             {
+                                "name":"Store Display Props"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Signage",
+                    "subcategories":[
+                       {
+                          "name":"Nameplates"
+                       },
+                       {
+                          "name":"Signage Display Mount Accessories"
+                       },
+                       {
+                          "name":"Signage Display Mounts"
+                       },
+                       {
+                          "name":"Signage Displays"
+                       },
+                       {
+                          "name":"Video Wall Display Mounts"
+                       },
+                       {
+                          "name":"Video Wall Displays"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Viewing & Observing",
+                    "subcategories":[
+                       {
+                          "name":"Magnifier Lamps"
+                       },
+                       {
+                          "name":"Magnifiers"
+                       },
+                       {
+                          "name":"Microscopes"
+                       }
+                    ]
+                 }
+              ]
+           },
+           {
+              "name":"Domestic Appliances",
+              "subcategories":[
+                 {
+                    "name":"Climate Control",
+                    "subcategories":[
+                       {
+                          "name":"Heating, Cooling & Air Quality",
+                          "subcategories":[
+                             {
+                                "name":"Air Filters"
+                             },
+                             {
+                                "name":"Air Purifier Accessories"
+                             },
+                             {
+                                "name":"Air Purifiers"
+                             },
+                             {
+                                "name":"Household Fans"
+                             },
+                             {
+                                "name":"Portable Air Conditioners"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Temperature & Humidity Sensors"
+                       },
+                       {
+                          "name":"Thermostat Accessories"
+                       },
+                       {
+                          "name":"Thermostats"
+                       },
+                       {
+                          "name":"Weather Stations & Accessories",
+                          "subcategories":[
+                             {
+                                "name":"Digital Weather Stations"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Large Home Appliances",
+                    "subcategories":[
+                       {
+                          "name":"Dishwashers"
+                       },
+                       {
+                          "name":"Laundry Appliances",
+                          "subcategories":[
+                             {
+                                "name":"Washing Machines"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Sewing & Ironing",
+                    "subcategories":[
+                       {
+                          "name":"Rotary Cutters"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Small Kitchen Appliances",
+                    "subcategories":[
+                       {
+                          "name":"Beverage Appliances",
+                          "subcategories":[
+                             {
+                                "name":"Coffee & Tea Appliances",
+                                "subcategories":[
+                                   {
+                                      "name":"Coffee Maker Parts & Accessories"
+                                   },
+                                   {
+                                      "name":"Coffee Makers"
+                                   }
+                                ]
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Cooking & Baking Appliances",
+                          "subcategories":[
+                             {
+                                "name":"Microwaves"
+                             }
+                          ]
+                       }
+                    ]
+                 }
+              ]
+           },
+           {
+              "name":"Entertainment & Hobby",
+              "subcategories":[
+                 {
+                    "name":"Arts, Crafts & Sewing",
+                    "subcategories":[
+                       {
+                          "name":"Art & Craft Kits",
+                          "subcategories":[
+                             {
+                                "name":"Candle Making Kits"
+                             },
+                             {
+                                "name":"Mosaic Kits"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Art & Craft Papers & Films",
+                          "subcategories":[
+                             {
+                                "name":"Card Stock & Construction Paper"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Basic Craft Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Mosaic Bases"
+                             },
+                             {
+                                "name":"Arts & Crafts Adhesives"
+                             },
+                             {
+                                "name":"Craft Magnets"
+                             },
+                             {
+                                "name":"Mosaic Supplies"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Ceramics, Pottery & Sculpture Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Pottery & Modeling Compounds"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Painting, Drawing & Art Supplies",
+                          "subcategories":[
+                             {
+                                "name":"Art & Craft Paints"
+                             },
+                             {
+                                "name":"Art Paper"
+                             },
+                             {
+                                "name":"Colouring Pages & Books"
+                             },
+                             {
+                                "name":"Easels"
+                             },
+                             {
+                                "name":"Painting Aprons"
+                             },
+                             {
+                                "name":"Sidewalk Chalks"
+                             },
+                             {
+                                "name":"Washable Finger Paints"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Paper Craft, Scrapbooking & Stamping",
+                          "subcategories":[
+                             {
+                                "name":"Printing Stamps"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Sewing, Knitting & Crochet",
+                          "subcategories":[
+                             {
+                                "name":"Sewing Accessories & Supplies",
+                                "subcategories":[
+                                   {
+                                      "name":"Sewing Fasteners",
+                                      "subcategories":[
+                                         {
+                                            "name":"Hook & Loop Fasteners"
+                                         }
+                                      ]
+                                   }
+                                ]
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Infotainment",
+                    "subcategories":[
+                       {
+                          "name":"Educational Incentives",
+                          "subcategories":[
+                             {
+                                "name":"Catalogues"
+                             },
+                             {
+                                "name":"Educational Resources"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Tabletop Games",
+                          "subcategories":[
+                             {
+                                "name":"Board & Card Games"
+                             },
+                             {
+                                "name":"Puzzles"
+                             }
+                          ]
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Stage & Studio Equipment",
+                    "subcategories":[
+                       {
+                          "name":"Audio Presentation Equipment & Accessories",
+                          "subcategories":[
+                             {
+                                "name":"Live Content Creation Controllers"
+                             },
+                             {
+                                "name":"Public Address (PA) Speakers"
+                             },
+                             {
+                                "name":"Recording Audio Interfaces"
+                             },
+                             {
+                                "name":"Wireless Microphone Systems"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Stage & Studio Lighting",
+                          "subcategories":[
+                             {
+                                "name":"Photo Studio Continuous Lighting"
+                             }
+                          ]
+                       },
+                       {
+                          "name":"Studio Aids",
+                          "subcategories":[
+                             {
+                                "name":"Background Screen Accessories"
+                             },
+                             {
+                                "name":"Background Screens"
+                             },
+                             {
+                                "name":"Photo Studio Equipment Sets"
+                             },
+                             {
+                                "name":"Prompters"
+                             }
+                          ]
+                       }
+                    ]
+                 }
+              ]
+           },
+           {
+              "name":"Motor Vehicle Electronics",
+              "subcategories":[
+                 {
+                    "name":"Car Speakers"
+                 },
+                 {
+                    "name":"Dashcams"
+                 },
+                 {
+                    "name":"Vehicle Mounted Computers"
+                 }
+              ]
+           }
+        ]
+      },
+      {
+        "name": "Motor Vehicle Accessories & Components",
+        "subcategories": [
+          {
+            "name": "Electric Vehicle Charging Cables"
+          },
+          {
+            "name": "Vehicle Care & Cleaning",
+            "subcategories": [
+              {
+                "name": "Car Air Purifier Accessories"
+              }
+            ]
+          },
+          {
+            "name": "Vehicle Battery Equipment",
+            "subcategories": [
+              {
+                "name": "Vehicle Battery Chargers"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hospitality",
+        "subcategories": [
+          {
+            "name": "Restaurant Handling Equipment & Supplies",
+            "subcategories": [
+              {
+                "name": "Sneeze Guards"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Medical Equipment",
+        "subcategories": [
+          {
+            "name": "Medical Diagnostic Equipment & Supplies",
+            "subcategories": [
+              {
+                "name": "Digital Body Thermometers"
+              }
+            ]
+          },
+          {
+            "name": "Surgical Instruments",
+            "subcategories": [
+              {
+                "name": "Surgical Scalpels"
+              }
+            ]
+          },
+          {
+            "name": "Communication Aids For The Physically Challenged",
+            "subcategories": [
+              {
+                "name": "Assistive Input Devices"
+              },
+              {
+                "name": "Assistive Input Device Parts & Accessories"
+              }
+            ]
+          }
+        ]
+      }                                  
+    ]
+  }
+  
